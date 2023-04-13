@@ -1,2 +1,2 @@
 # dotfiles
-curl -fsSL https://raw.githubusercontent.com/lhoangphuong/dotfiles/main/install_neovim.sh | bash
+curl -fsSL https://raw.githubusercontent.com/lhoangphuong/dotfiles/main/script/install_neovim.sh | bash
