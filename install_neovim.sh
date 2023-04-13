@@ -6,6 +6,6 @@ if command -v nvim >/dev/null 2>&1 ; then
 else
     # Install Neovim
     echo "Installing Neovim..."
-    sudo apt-get update
-    sudo apt-get install neovim
+    sudo apt-get update -y
+    sudo apt-get install neovim -y
 fi
