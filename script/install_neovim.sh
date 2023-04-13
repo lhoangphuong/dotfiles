@@ -18,7 +18,7 @@ else
     # Install Lua
     echo "Installing Lua..."
     curl -R -O http://www.lua.org/ftp/lua-5.4.4.tar.gz
-    tar zxpf lua-5.4.4.tar.gz
+    tar zxpf lua-5.4.4.tar.gz -q
     cd lua-5.4.4
 
     # Configure and install Lua
